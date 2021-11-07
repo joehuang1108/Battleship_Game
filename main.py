@@ -1,9 +1,39 @@
 
 # Sample Code
+#
+# def print_hi():
+#     print("Hello World")
+# #new comment
+# # removal comment
+#
+# print_hi()
 
-def print_hi():
-    print("Hello World")
-#new comment
-# removal comment
+list = []
+list.append("Hi")
+list.append("Hi")
 
-print_hi()
+# set
+# set --> contain specific attributes
+# set = your math class --> everyone in your math class
+# set = integers --> 2 3 5 59 2
+# set = operations --> + - * /
+# set = math --> integers, operations
+
+# print(list)
+
+print((set(list)))
+#
+# if list:
+#     print(set(list))
+
+# copy of list
+new_list = list
+
+# join(new_list)
+
+test = [1, 5, 2, 6, 7]
+
+testString = "1 5 2 6 7"
+
+print(", ".join(set(list)))
+
