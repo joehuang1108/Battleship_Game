@@ -26,6 +26,9 @@ print((set(list)))
 # if list:
 #     print(set(list))
 
+# NEW CAHNGES
+
+
 # copy of list
 new_list = list
 
